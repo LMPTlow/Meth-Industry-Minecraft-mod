@@ -1,4 +1,4 @@
-# Meth-Industry-Minecraft-mod
+# Meth Industry | Minecraft mod
 
 EN: This mod is made for educational purposes only and the creator is not responsible for the users of this mod.
 
