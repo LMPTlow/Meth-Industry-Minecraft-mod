@@ -18,7 +18,3 @@ All in 0.59.5
 <img width="598" height="460" alt="image" src="https://github.com/user-attachments/assets/2bff2a86-4183-45e4-9798-99087a552f78" />
 
 -------
-
-Я этот мод буквально на коленке делал.
-
-I literally made this mod on knee.
